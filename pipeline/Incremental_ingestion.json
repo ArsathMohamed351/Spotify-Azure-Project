@@ -305,8 +305,7 @@
 				"type": "string"
 			},
 			"cdc_col": {
-				"type": "string",
-				"defaultValue": "updated_at"
+				"type": "string"
 			}
 		},
 		"variables": {
