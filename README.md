@@ -38,32 +38,6 @@ The goal of this project is to showcase **production‑ready data engineering pr
 
 ---
 
-## 📂 Repository Structure
-
-```
-ADF-Incremental-Ingestion/
-│
-├── datasets/
-│   ├── AzureSqlTable.json
-│   ├── Parquet_dynamic.json
-│
-├── pipelines/
-│   ├── Incremental_ingestion.json
-│   ├── Incremental_Looping.json
-│
-├── linkedServices/
-│   ├── AzureSqlDatabase.json
-│   ├── AzureDataLake.json
-│
-├── screenshots/
-│   ├── pipeline_run.png
-│   ├── foreach_activity.png
-│
-└── README.md
-```
-
----
-
 ## ⚙️ Pipeline Explanation
 
 ### 1️⃣ Incremental_Ingestion Pipeline
