@@ -1,5 +1,7 @@
 # 🚀 Azure Data Factory Incremental Data Ingestion Pipeline
 
+<img width="1920" height="1080" alt="Architecture" src="https://github.com/user-attachments/assets/027df5a3-fd72-483e-9aa5-8a8912bb8fc2" />
+
 ## 📌 Project Overview
 
 This project demonstrates a **real‑world incremental data ingestion pipeline** built using **Azure Data Factory (ADF)**. The pipeline efficiently loads only **new or changed data** from **Azure SQL Database** into **Azure Data Lake Storage** using a CDC‑style approach. It is fully parameterized, reusable, and version‑controlled using **GitHub integration**.
